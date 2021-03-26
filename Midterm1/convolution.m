@@ -17,7 +17,7 @@ function [C] = convolution(I, K, P)
 % Intelligent Systems for Pattern Recognition AY 2020/2021
 % Midterm 1, Assignment 6
 % Elia Piccoli 621332
-% getfilter.m
+% convolution.m
 
     % input checking
     if nargin < 2
