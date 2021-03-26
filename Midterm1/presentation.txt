@@ -1,0 +1,15 @@
+Implement convolution, parallel convolution 				- DONE
+Implement Filtering -> Gaussian, Mean filter 				- DONE
+Implement Roberts, Prewitt and Sobel filters				- DONE
+Implement Laplacian of Gaussian filter					- DONE
+------------------------------------------------------------------------------
+
+
+TREE: 2_13, 2_30
+FACE: 6_10, 6_14
+
+SLIDE 1: title
+SLIDE 2: main code - getfilter
+SLIDE 3: convolution
+SLIDE 4: TREE/FACE
+SLIDE 5: extra : parallel computation - LoG filter
