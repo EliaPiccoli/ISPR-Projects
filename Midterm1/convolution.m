@@ -1,6 +1,6 @@
 function [C] = convolution(I, K, P)
 %CONVOLUTION Compute 2D-Convolution between an image I and kernel K
-% Computes convoltion betweem the Image and the Kernel. If provided the
+% Computes convolution between the Image and the Kernel. If provided the
 % algorithm uses Matlab ParPool to compute the result.
 %
 %Input:
@@ -45,7 +45,7 @@ function [C] = convolution(I, K, P)
     PI = [lpad PI rpad];
     [~, PIC] = size(PI);
 
-    % linearlize the matrixes for better parrallel computation
+    % linearlize the matrixes for better parallel computation
     LPI = reshape(PI', 1, []);
     LK = reshape(K', 1, []);
 
