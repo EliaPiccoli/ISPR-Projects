@@ -17,7 +17,6 @@ Implement from scratch an RBM and apply it to [MNIST](http://yann.lecun.com/exdb
 
 ##
 
-<<<<<<< HEAD
 ### Midterm 3 - _Assignment 4_
 
 DATASET ([PRESIDENTIAL SPEECHES](http://www.thegrammarlab.com/?nor-portfolio=corpus-of-presidential-speeches-cops-and-a-clintontrump-corpus#))
@@ -27,9 +26,3 @@ Pick up one of the available implementations of the Char-RNN and train it on the
 
 ### Midterm 4
 Google DeepMind AlphaGo: [Mastering the game of Go with deep neural networks and tree search](www.nature.com/articles/nature16961)
-=======
-### Midterm 3 - Assignment 4
-DATASET (PRESIDENTIAL SPEECHES): [presidential](http://www.thegrammarlab.com/?nor-portfolio=corpus-of-presidential-speeches-cops-and-a-clintontrump-corpus#)
-
-Pick up one of the available implementations of the Char-RNN and train it on the presidential speech corpora. In particular, be sure to train 2 separate models, one on all the speeches from President Clinton and  one on all the speeches from President Trump. Use the two models to generate new speeches and provide some samples of it at your choice. Should you want to perform any other analysis, you are free to do so.
->>>>>>> e653ca32d375dd6b2bc75a03627f97c6171c611c
