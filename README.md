@@ -25,4 +25,4 @@ Pick up one of the available implementations of the Char-RNN and train it on the
 ##
 
 ### Midterm 4
-Google DeepMind AlphaGo: [Mastering the game of Go with deep neural networks and tree search](www.nature.com/articles/nature16961)
+Google DeepMind AlphaGo: [Mastering the game of Go with deep neural networks and tree search](http://www.nature.com/articles/nature16961)
